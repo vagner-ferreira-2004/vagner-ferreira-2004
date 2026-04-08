@@ -9,7 +9,6 @@ I am also responsible for coordinating the team, assigning tasks, tracking proje
 
 I maintain a strong focus on continuous technical growth, code quality, and value delivery, always striving to align technology with real impact for clients and users.</p> 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
